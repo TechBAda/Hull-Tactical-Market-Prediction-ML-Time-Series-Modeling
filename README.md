@@ -50,6 +50,8 @@ Contains the full modeling notebook implementing:
 - Feature importance plots  
 
 ---
-
-
+##  Results
+- All models produced negative R² on time-series CV → consistent with EMH.
+- Among models: Gradient Boosting ≈ AdaBoost > Random Forest > Ridge.
+- Next steps: add lag features/rolling indicators; try XGBoost/LightGBM; evaluate MASE and directional accuracy.
 
