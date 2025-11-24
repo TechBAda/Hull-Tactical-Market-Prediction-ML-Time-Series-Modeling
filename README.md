@@ -19,6 +19,8 @@ The analysis applies ISM 6419 concepts including ensemble methods, boosting algo
   - R², MAE, RMSE  
   - Fold-by-fold time-series performance  
 - Key Finding: All models produced negative R² scores, supporting the Efficient Market Hypothesis (EMH). Boosting models performed best among the four.
+- - Dataset: Hull Tactical Market Prediction (Kaggle) — [competition page](https://www.kaggle.com/competitions/hull-tactical-market-prediction)
+
 
 ---
 
